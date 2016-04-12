@@ -24,6 +24,6 @@ Steps to add images into your content file are as given below:
    
  ### Adding Unformatted Text:    
  
- Write your text inside ``` for text to be displayed as it is with different background color.
+ Write text or command within a sentence with single backticks " ` ". The text within the backticks will not be formatted.
 
 
