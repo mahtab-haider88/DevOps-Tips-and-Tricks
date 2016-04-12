@@ -30,7 +30,7 @@ In your github readme file add below content with respective alternate tag and h
     
     Example: `[Click Here to visit GitHub](https://github.com)`
    
-### Adding Unformatted Text:    
+### Adding Unformatted Text   
  
  Write text or command within a sentence with single backticks " ` ". The text within the backticks will not be formatted.
 
