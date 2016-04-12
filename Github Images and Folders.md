@@ -19,6 +19,7 @@ Steps to add images into your content file are as given below:
 2. In your github readme file add below content with respective alternate tag and image URL.
 
     `![alt tag](http://url/to/img.png)`
+    
     Example: `![My Sample Image](https://github.com/mahtab-haider88/DevOps-Tips-and-Tricks/blob/master/images/ServerManager.jpg)`
    
     
