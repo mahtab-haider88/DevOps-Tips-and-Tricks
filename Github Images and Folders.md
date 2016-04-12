@@ -21,8 +21,16 @@ Steps to add images into your content file are as given below:
     `![alt tag](http://url/to/img.png)`
     
     Example: `![My Sample Image](https://github.com/mahtab-haider88/DevOps-Tips-and-Tricks/blob/master/images/ServerManager.jpg)`
+    
+### Adding hyperlinks into readme files
+
+In your github readme file add below content with respective alternate tag and hyperlink URL.
+
+    `![alt tag](http://url)`
+    
+    Example: `![Click Here to visit GitHub](https://github.com)`
    
- ### Adding Unformatted Text:    
+### Adding Unformatted Text:    
  
  Write text or command within a sentence with single backticks " ` ". The text within the backticks will not be formatted.
 
