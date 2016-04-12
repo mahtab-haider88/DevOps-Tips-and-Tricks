@@ -10,4 +10,6 @@ Here is the solution:
 
 ![](https://github.com/mahtab-haider88/DevOps-Tips-and-Tricks/blob/master/images/localServerErrorReportingOff.jpg)
 
+4. Close your browser window and reopen. Now you will be able to access your website and content properly.
+
 
