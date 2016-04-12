@@ -26,9 +26,9 @@ Steps to add images into your content file are as given below:
 
 In your github readme file add below content with respective alternate tag and hyperlink URL.
 
-    '[alt tag](http://url)
+    [alt tag](http://url)
     
-    Example: [Click Here to visit GitHub](https://github.com)'
+    Example: [Click Here to visit GitHub](https://github.com)
    
 ### Adding Unformatted Text   
  
