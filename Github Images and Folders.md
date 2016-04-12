@@ -22,6 +22,8 @@ Steps to add images into your content file are as given below:
     
     Example: `![My Sample Image](https://github.com/mahtab-haider88/DevOps-Tips-and-Tricks/blob/master/images/ServerManager.jpg)`
    
-    
+ ### Adding Unformatted Text:    
+ 
+ Use ```` for text to be displayed as it is with different background color.
 
 
